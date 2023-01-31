@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+- family-names: "Lakmal"
+  given-names: "H.K.I.S."
+- family-names: "Dissanayake"
+  given-names: "Maheshi B."
+title: "Improving the Visibility at Night for Advanced Driver Assistance Systems Using Night-to-Day Image Translation"
+version: 1.0.2
+doi: 10.1109/SLAAI-ICAI56923.2022.10002695
+date-released: 2022-12-18
+url: "https://ieeexplore.ieee.org/abstract/document/10002695"
